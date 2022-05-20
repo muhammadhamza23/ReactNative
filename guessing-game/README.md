@@ -4,4 +4,4 @@ This is a React Native guessing game app. The game allows to make predictions fo
 
 ## Error Handling
 
-- If you get network response timeout error, switch the connection from LAN to tunnel or by typing `expo start --tunnel` in the terminal.
+- If you get network response timeout error, switch the connection from LAN to tunnel or type `expo start --tunnel` in the terminal.
